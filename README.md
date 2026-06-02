@@ -16,3 +16,6 @@ This project visualizes the severe 2019-2020 Australian wildfires using NASA's s
 1. Clone this repository.
 2. Ensure you have the required libraries installed (`pip install pandas matplotlib folium`).
 3. Run the Jupyter Notebook to generate the static charts and the interactive `Premium_Wildfire_Map.html` file.
+
+## Timeline Analysis
+![Timeline Chart](output.png)
